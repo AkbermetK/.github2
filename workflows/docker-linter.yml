@@ -12,3 +12,4 @@ jobs:
       - uses: hadolint/hadolint-actions@v3.1.0
         with:
           dockerfile: Dockerfile
+      - run: 
